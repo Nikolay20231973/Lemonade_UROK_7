@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade_UROK_7</string>
+    <string name="lemon_select">Нажмите на дерево, чтобы выбрать лимон</string>
+    <string name="lemon_squeeze">Продолжайте жать на лимон,выжмите его</string>
+    <string name="lemon_drink">Постучите по лимонаду, чтобы выпить его</string>
+    <string name="lemon_empty_glass">Постучите по стакану, начните сначала</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+</resources>
